@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e308f44d-6a2f-47eb-89c4-0064cc2402f8": {
+      "ProjectGuid": "e308f44d-6a2f-47eb-89c4-0064cc2402f8",
+      "DisplayName": "TodoListBlazorWebAssembly",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
